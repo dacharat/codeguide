@@ -28,6 +28,7 @@ Interface Segregation Principle stats that, a client should not implement an int
 
 
 >If you write many class and have same method, you can create interface and implements method in interface to make your code easy to ?>read.
+
 ```sh
 *Example
 public interface Shape {
@@ -36,6 +37,7 @@ public interface Shape {
 	public double findVolumn();
 }
 ```
+
 Read more: http://javarevisited.blogspot.com/2012/03/10-object-oriented-design-principles.html#ixzz4a5YrePpR
 
 
